@@ -7,7 +7,7 @@ const pool = pgp(var_conection);
 
 pool.connect()
 .then((conn)=>{
-    console.log('TE CONECTASTES A: ', var_conection.database);
+    console.log('TE CONECTASTES A: ', var_conection.database, 'EL USUARIO: ', var_conection.user);
     conn.done();
 })
 .catch((meErr)=>{
