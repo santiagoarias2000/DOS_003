@@ -3,5 +3,5 @@ export default {
     host: 'localhost',
     database: 'db_first',
     password: '123456',
-    port: '5432'
+    port: 5432,
 };
