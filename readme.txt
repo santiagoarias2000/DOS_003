@@ -54,3 +54,4 @@ para iniciar el servicio, comenzar a iniciar los servicios
 npm run build(nombre del tsc -w)
 despues se inicia el otro servicio
 npm run dev(nombre de nodemon build/index.js )
+/OneDrive/Documentos/Santiago Universidad/6 SEMESTRE/Desarrollo Servicios/DOS_003 
