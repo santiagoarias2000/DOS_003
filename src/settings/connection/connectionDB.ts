@@ -1,5 +1,5 @@
 import pgPromise from "pg-promise";
-import {opcionesPG} from './opcionesConexion';
+import {opcionesPG} from './optionConnection';
 import var_conection from "../dominios/var_database";
 
 const pgp =pgPromise(opcionesPG);
