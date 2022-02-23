@@ -5,8 +5,8 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "devcito": "nodemon build/index.js",
-        "builcito": "tsc -w"
+        "dev": "nodemon build/index.js",
+        "build": "tsc -w"
     },
     "keywords": [
         "data",
